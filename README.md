@@ -3,6 +3,7 @@
 
 # Demo
 This is the horizontal version: ![alt text](http://wua.xplosivegames.com/servers/tracker/horizontal.png "Horizontal Server Tracker")
+
 This is the vertical version: ![alt text](http://wua.xplosivegames.com/servers/tracker/vertical.png "Vertical Server Tracker")
 
 # Requirements / Dependencies
